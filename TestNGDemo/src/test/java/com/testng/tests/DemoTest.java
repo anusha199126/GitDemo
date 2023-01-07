@@ -9,6 +9,7 @@ public class DemoTest {
 	void sampleTest()
 	{
 		System.out.println("AM ANUSHA");
+		System.out.println("AM ");
 	}
 
 }
